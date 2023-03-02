@@ -1,2 +1,2 @@
 ### Hi there 👋
-[![Logo](./assets/Personal Logo.png)](https://juanospinab.com) Portfolio Website
+[![Logo](./assets/PersonalLogo.png)](https://juanospinab.com) Portfolio Website
