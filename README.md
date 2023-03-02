@@ -4,14 +4,10 @@ I'm Juan Ospina, a Graphics Programmer. I like Graphics and Engine related stuff
 
 Click [here](https://juanospinab.com) if you want to check out my portfolio
 
-<!-- Pinned Repositories -- >
+## Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrfreedeer&repo=Guildhall-Projects)](https://github.com/mrfreedeer/Guildhall-Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrfreedeer&repo=Guildhall-Engine)](https://github.com/mrfreedeer/Guildhall-Engine)
 
-<a href="https://github.com/mrfreedeer/Guildhall-Projects">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
-<br>
-
-<a href="https://github.com/mrfreedeer/Guildhall-Engine">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrfreedeer&layout=compact)
